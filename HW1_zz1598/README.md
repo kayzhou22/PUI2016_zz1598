@@ -19,6 +19,14 @@
 #### commands $PUI2016 and pui2016 and outputs
 ![Screenshot 2 Assignment 2: my commands using $PUI2016 and the pui2016 alias](HW1_SS2_ev_alias.png)
 
+## Assignment 3
+### Downloaded the ipython notebook onto my laptop, and then uploaded it to my folder on compute.
+### Followed the instructions and completed the tasks.
+###**Note**:
+#### 1. I generated two different distributions: one with seed changed(1-50), the other with a constant seed(22), and plotted figures for each
+#### 2. **Question**: for the Challenge problem, is it possible to shuffle the distribution along y-axis among groups directly within the ReprRandAll3?
+
+
 
 
 
