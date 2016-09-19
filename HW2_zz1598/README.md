@@ -1,5 +1,7 @@
 # HW2 Information
 
+### --Groupwork: In addition to individual work, I also discussed some thoughts with Dongjie Fan about finding the best way to synchronize the compute, local files and github. Besides, I also helped two other classmates with choosing Python editors for writing python script. 
+
 ## Assignment 1
 ### Got the API Key from MTA website, and used it to get bus information in Json format. It took me some time to observe the format of the loops and get the bus locations. 
 
@@ -12,8 +14,7 @@
 
 ## Extra Credit
 ### Worked on compute. Picked a new dataset with data&time. 
-### Note: I tried to plot a scatter plot of the time series using the same method as that in Assignment 3, but error occured.
-###         I read some materials about Time Series plots of pandas, and plotted a Time Series line plot.
+### Note: I tried to plot a scatter plot of the time series using the same method as that in Assignment 3, but error occured. I read some materials about Time Series plots of pandas, and plotted a Time Series line plot.
 
 
 
