@@ -3,6 +3,8 @@
 ### * Groupwork: In addition to individual work, I also discussed some thoughts with Dongjie Fan about finding the best way to interpret each statistcal test and their implications. We helped each other understand the differences between the tests. He helped me on the usage of some built-in functions. ; I helped him with pointing out some minor mistakes in his answers to Assignment 3 and 4. I also consulted Google for understanding some concepts of statistical plotting.
 
 ## Assignment 1
+### The assigned classmate is Akshay Kumar Varma Penmatcha (akp418)
+[link to my Github pull request](https://github.com/akpen/PUI2016_akp418/pull/1)
 ### It was a great chance connecting with other people's thoughts on the same question I did. It inspired me as well. It was worth a discussion about the differences in our approaches.
 
 ## Assignment 2
