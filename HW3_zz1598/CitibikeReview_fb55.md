@@ -1,3 +1,4 @@
+## review of citibike work by @fedhere ##
 Null hypothesis properly formulated, however: communitng means goint to work/school I think you mean more likely to use citibike in general, not for commuting (generally no commuting on weekends)
 
 THE FORMULAE MAKE NO SENSE! what is ;=? should be <=, or >=, and < or > in the Ha. Please correct! (confusion with foreign keyboard??)
