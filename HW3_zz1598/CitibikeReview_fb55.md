@@ -3,6 +3,6 @@ Null hypothesis properly formulated, however: communitng means goint to work/sch
 
 THE FORMULAE MAKE NO SENSE! what is ;=? should be <=, or >=, and < or > in the Ha. Please correct! (confusion with foreign keyboard??)
 
-Dara wrangle phase is fine, and it looks like you may have an interesting result.
+Data wrangle phase is fine, and it looks like you may have an interesting result.
 
 A test of proportion (z for proportion or chi sq) is appropriate.
