@@ -1,6 +1,7 @@
 # Peer Review for ak6129 - hw7 plot
+Reviewed by: Ziman Zhou (zz1598) <br/>
 
-Alexey Kalinin (ak6129)  <br/>
+Plot Author: Alexey Kalinin (ak6129)  <br/>
 Link to Github Repository: <br/>
 https://github.com/ak6129/PUI2016_ak6129/blob/master/HW7_ak6129/Assignment_1.ipynb
 
