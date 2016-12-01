@@ -8,9 +8,10 @@
 
 
 ## Assignment 2 - NYC Business Clustering
-### I performed two clustering algorithms--KMeans and Hierarchical--on business establishments in NYC census blocks to explore the pattern of these time series from 1994 to 2014. 
+### I performed two clustering algorithms--KMeans and Hierarchical--on business establishments in NYC by zipcodes to explore the pattern of these time series from 1994 to 2014. 
 
-### I downloaded business establishment data (1994 to 2014) and merged them with the census block data by the unique zipcodes. To plot the KMeans clustering result on a two dimensional plane, I used the 2000 and 2010 business establishment data points and their clustering centers. Finally I plotted and compared the maps that showed the clusters.
+### I downloaded business establishment data (1994 to 2014) and merged them with the census block data by the unique zipcodes. To plot the KMeans clustering result, I firstly used the 2000 and 2010 business establishment data points and their clustering centers. These scatter points  on a two dimensional plane provided a breif view of how close the points were located to their cluster centers. Then I plotted a time series praph for all the data points and their cluster centers to explore the trends.
+### Finally I plotted and compared the maps that showed the clusters.
 
 
 
